@@ -1,5 +1,5 @@
-# Spatial Unity SDK Starter Template
+# Terrain test
 
-A template to get you started building environments for Spatial.
+Project of test terrain by Diana Ruiz
 
-Read more here: https://docs.spatial.io
+Link for playing in spatial: 
