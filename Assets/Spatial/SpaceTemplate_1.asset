@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 0
   sku: 670a2a1d20de9e609be9c83d
-  packageName: ProBuilderTest
+  packageName: ParticlesTest
   thumbnail: {fileID: 0}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
